@@ -1,0 +1,14 @@
+body{background-color: #F38630;
+ color:#542437;
+ background-image:url('carro.jpg');
+ background-repeat: no-repeat;
+	}
+	p{
+	font-family: arial;
+	font-size: 20px;
+	text-indent: 10px;
+	}
+	span{
+	text-style:italic;
+	font-weight: bold;
+	}
